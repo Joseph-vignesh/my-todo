@@ -1,3 +1,5 @@
 /venv/
 .idea
 bonus
+build
+dist
