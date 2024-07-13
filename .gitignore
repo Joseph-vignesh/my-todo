@@ -1,5 +1,6 @@
 /venv/
-.idea
-bonus
-build
-dist
+/build/
+/build/gui/
+/bonus/
+/dist/
+/build/gui/localpycs/
